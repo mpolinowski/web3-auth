@@ -6,7 +6,7 @@ Following along a tutorial by [Ayodele Samuel Adebayo](https://hashnode.com/@unc
 [Web3.js](https://web3js.org/) is a collection of libraries that allow you to interact with a local or remote Ethereum node using HTTP, IPC, or WebSocket. Web3.js can be used in the frontend or backend of an application to read data from the blockchain.
 
 
-__Blockchain__ authentication can be used to protect application with public data. It helps identify who is accessing the website and what data should be accessible for the logged-in user. This is the evolution coming from a __Basic Authentication__ system with a username and password in `web1` to __OAuth__ system allowing users to use their social media logins to login to another system with `web2` and on to `web3` - a decentralized system that does not involve a third-party that holds your data for you. Every user has complete control over their personal data using a __Decentralised Identity__.
+__Blockchain__ authentication can be used to protect application with public data. It helps identify who is accessing the website and what data should be accessible for the logged-in user. This is the evolution coming from a __Basic Authentication__ system with a username and password in `web1` to __OAuth__ system allowing users to use their social media logins to login to another system with `web2` and on to `web3` - a decentralized system that does not involve a third-party that holds your data for you. Every user has complete control over their personal data using a __Decentralized Identity__.
 
 
 ## Proof-of-work Application
