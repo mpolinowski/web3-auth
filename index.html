@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/4.0.1-alpha.1/web3.min.js"
+            integrity="sha512-53NYeuuMZACjFqIMYEeKpIAURC/HYaAKFQ3InNgTmS45BX7qNOMmjgmE5Fvidj0+hHHC9ICYi5L4AAIhqG2fOQ=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Web3.js Login Test</title>
+  </head>
+  <body>
+
+    <!-- LOGIN -->
+    <section class="login-section">
+      <button class="login-btn">🔓 Log in with Web3</button>
+      <span class="instruction">
+        Ensure to have an 
+      </span>
+    </section>
+
+    <!-- DASHBOARD -->
+    <section class="dashboard-section">
+      <h2 class="wallet-status">Wallet Connected! 🤝</h2>
+      <h3 class="wallet-address-heading">
+        ETH Wallet Address:
+        <span class="wallet-address"></span>
+      </h3>
+      <h3 class="wallet-balance-heading">
+       ETH Balance:
+        <span class="wallet-balance"></span>
+      </h3>
+      <button class="logout-btn">🔐 Log out</button>
+    </section>
+  </body>
+
+  <!-- SCRIPT -->
+  <script src="./scripts.js"></script>
+</html>
+ 
